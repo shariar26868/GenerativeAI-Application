@@ -21,6 +21,6 @@ This application extracts content from PDF files, generates 10 questions and ans
 
 - Python 3.12.6
 - pip (Python package installer)
-Need OpenAI API Key.
+- Need OpenAI API Key.
 
 
